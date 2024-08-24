@@ -1,1 +1,2 @@
 # NE555-Astable-multivibretor
+  Description: The aim of an astable multivibrator using a 555 timer is to create a continuous square wave output. The 555 timer is an integrated circuit.that's used in oscillator circuits to provide timing delays. The 555 timer works by charging and discharging a capacitor through two resistors, and then triggering an internal flip-flop when the capacitor voltage reaches a certain level. The frequency of the square wave is determined by the values of the resistor and capacitor.
